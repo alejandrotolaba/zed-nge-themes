@@ -1,0 +1,7 @@
+id = "nge-themes"
+name = "NGE Themes"
+version = "0.0.1"
+schema_version = 1
+authors = ["alejandrotolaba@gmail.com"]
+description = "Neon Genesis Evangelion-inspired themes for Zed"
+repository = "https://github.com/alejandrotolaba/zed-nge-theme.git"
