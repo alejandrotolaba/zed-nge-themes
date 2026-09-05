@@ -6,7 +6,13 @@ Currently in its initial release, this extension features the legendary **EVA-01
 
 ---
 
-## 🎨 Included Themes
+## 📸 Preview
+
+### EVA-01 Dark
+
+![EVA-01 Dark Theme](screenshots/eva-01_dark.png)
+
+---
 
 | Theme Name | Appearance | Description |
 | :--- | :---: | :--- |
