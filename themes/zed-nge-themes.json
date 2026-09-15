@@ -52,7 +52,7 @@
 				"scrollbar.thumb.background": "#8040BF20",
 				"scrollbar.thumb.hover_background": "#8040BF80",
 				"scrollbar.thumb.border": "#2d2f34ff",
-				"scrollbar.track.background": "#00000000",
+				"scrollbar.track.background": "#000000ff",
 				"scrollbar.track.border": "#1b1e24ff",
 				"editor.foreground": "#CCCCCCFF",
 				"editor.background": "#000000BF",
